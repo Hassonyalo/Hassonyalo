@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Hassonyalo
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Java, C++, Python and C#
+- 💞️ I’m looking to collaborate on Java
